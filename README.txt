@@ -1,5 +1,7 @@
 # numberguessinggame
 coding for vityarthi
+Welcome to the Number Guessing Game!
+
 # Number Guessing Game
 This is a simple command-line number guessing game built with Python. The␣
 ↪program generates a random number between 1 and 100, and the user is␣
@@ -39,3 +41,16 @@ python3 guessing_game.py
 4. The game continues until you guess the correct number.
 5. A message is displayed with the total number of attempts you made to win␣
 ↪the game.
+
+Result
+Welcome to the Number Guessing Game!
+I have picked a number between 1 and 100. Try to guess it.
+1
+Enter your guess: 95
+Too high! Try a lower number.
+Enter your guess: 25
+Too low! Try a higher number.
+Enter your guess: 78
+Too high! Try a lower number.
+Enter your guess: 55
+Too high! Try a lower number.
